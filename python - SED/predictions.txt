@@ -1,7 +1,0 @@
-File: 2023-10-05T11-15-28Z.wav
-Class: Fala. Score: 69.9%.
-Class: Narração. Score: 21.1%.
-Class: Fala masculina. Score: 18.5%.
-Class: Picar. Score: 5.36%.
-Class: Silêncio. Score: 5.00%.
------------------------------------------
